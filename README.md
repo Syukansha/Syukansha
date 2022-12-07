@@ -1,4 +1,4 @@
-# Hi there, I'm Syukri 
+# Hi there 
 
   <summary>:zap: GitHub Stats</summary>
 
